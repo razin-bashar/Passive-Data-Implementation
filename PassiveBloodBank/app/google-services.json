@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "956432350290",
+    "project_id": "blood-bank-25996"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956432350290:android:fc56bc94a87b2115",
+        "android_client_info": {
+          "package_name": "com.example.root.bloodbank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpwoH2BK1auK4lbs1zg8z8PnN-2Yaau0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
